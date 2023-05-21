@@ -1,10 +1,6 @@
 # E-Commerce-Backend
 
-<<<<<<< HEAD
-The E-Commerce-Backend is a backend application that manages an e-commerce site's database using Express.js API and Sequelize to interact with a MySQL database. It allows for database models and associations to be quickly created and modified.
-=======
-
->>>>>>> f404ab874295d42874bf68316f9c4b198c4f7cbd
+The E-Commerce Backend is a backend application that manages an e-commerce site's database using Express.js API and Sequelize to interact with a MySQL database. It allows for database models and associations to be quickly created and modified.
 
 ## Table of Contents
 
