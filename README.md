@@ -1,7 +1,6 @@
 # E-Commerce-Backend
 
-Sure, I can provide you with a template for a professional README for your e-commerce backend project. You can fill in the parts that are specific to your project, such as the installation steps and usage examples.
-
+The E-Commerce-Backend is a backend application that manages an e-commerce site's database using Express.js API and Sequelize to interact with a MySQL database. It allows for database models and associations to be quickly created and modified.
 
 ## Table of Contents
 
@@ -13,9 +12,6 @@ Sure, I can provide you with a template for a professional README for your e-com
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Description
-
-The E-Commerce Backend is a backend application that manages an e-commerce site's database using Express.js API and Sequelize to interact with a MySQL database. It allows for database models and associations to be quickly created and modified.
 
 ## Installation
 
