@@ -1,6 +1,5 @@
 # E-Commerce-Backend
 
-Sure, I can provide you with a template for a professional README for your e-commerce backend project. You can fill in the parts that are specific to your project, such as the installation steps and usage examples.
 
 
 ## Table of Contents
