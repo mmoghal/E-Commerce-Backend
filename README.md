@@ -47,11 +47,15 @@ The application supports the following API endpoints:
 
 ## Application Image
 
-![alt Image of the application](https://github.com/mmoghal/...)
+![alt Image of the application](https://github.com/mmoghal/E-Commerce-Backend/blob/main/ec1.png)
 
-## Demo Video
+![alt Image of the application](https://github.com/mmoghal/E-Commerce-Backend/blob/main/ec2.png)
 
-https://drive.google.com/.....
+
+
+## Walkthrough Video
+
+https://drive.google.com/file/d/1EE6rDjouzgjuKy0vlwocgUfgL8XVcm51/view
 
 
 ## License
